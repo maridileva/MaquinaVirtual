@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1747008315 source:c:\users\madil\onedrive\documentos\facultad\arquitectura de computadoras\mv\maquinavirtualparte2\main.c
+	"mv.h"
+
+1747008533 c:\users\madil\onedrive\documentos\facultad\arquitectura de computadoras\mv\maquinavirtualparte2\mv.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<limits.h>
+
+1747104326 source:c:\users\paula\onedrive\documentos\ingenieria\3er año\arquitectura de computadoras\tp final\maquinavirtualparte2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"mv.h"
+
+1747105004 c:\users\paula\onedrive\documentos\ingenieria\3er año\arquitectura de computadoras\tp final\maquinavirtualparte2\mv.h
+	<stdint.h>
+
+1747104932 source:c:\users\paula\onedrive\documentos\ingenieria\3er año\arquitectura de computadoras\tp final\maquinavirtualparte2\mv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<limits.h>
+	"mv.h"
+
+1750468354 source:c:\users\madil\onedrive\documentos\facultad\arquitectura de computadoras\parte 2 - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"mv.h"
+
+1750810900 c:\users\madil\onedrive\documentos\facultad\arquitectura de computadoras\parte 2 - final\mv.h
+	<stdint.h>
+
+1750811005 source:c:\users\madil\onedrive\documentos\facultad\arquitectura de computadoras\parte 2 - final\mv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<limits.h>
+	"mv.h"
+
