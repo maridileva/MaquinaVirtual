@@ -1,4 +1,5 @@
-Emulador de Máquina Virtual en C
+ Máquina Virtual en C
+
 Emulador e intérprete de máquina virtual desarrollado en C. Simula registros, memoria principal y el ciclo de ejecución de instrucciones (fetch-decode-execute).
  
 Características
